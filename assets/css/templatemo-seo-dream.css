@@ -1050,16 +1050,16 @@ Features Style
 }
 
 .first-feature:hover .icon {
-  background-image: url(../images/features-icon-white-01.png);
+  background-image: url(../images/smart-contracts-white.png);
 }
 .second-feature:hover .icon {
-  background-image: url(../images/features-icon-white-02.png);
+  background-image: url(../images/access.png);
 }
 .third-feature:hover .icon {
-  background-image: url(../images/features-icon-white-01.png);
+  background-image: url(../images/non-fungible-token.png);
 }
 .forth-feature:hover .icon {
-  background-image: url(../images/features-icon-white-02.png);
+  background-image: url(../images/search_WHITE.png);
 }
 
 .features-item .number h6 {
@@ -1094,18 +1094,18 @@ Features Style
 }
 
 .first-feature .icon {
-  background-image: url(../images/features-icon-black-01.png);
+  background-image: url(../images/smart-contracts.png);
 }
 
 .second-feature .icon {
-  background-image: url(../images/features-icon-black-02.png);
+  background-image: url(../images/access-black.png);
 }
 .third-feature .icon {
-  background-image: url(../images/features-icon-black-01.png);
+  background-image: url(../images/non-fungible-token-white.png);
 }
 
 .forth-feature .icon {
-  background-image: url(../images/features-icon-black-02.png);
+  background-image: url(../images/search.png);
 }
 
 .features-item .icon {
