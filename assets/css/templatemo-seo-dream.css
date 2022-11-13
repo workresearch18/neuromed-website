@@ -1052,8 +1052,13 @@ Features Style
 .first-feature:hover .icon {
   background-image: url(../images/features-icon-white-01.png);
 }
-
 .second-feature:hover .icon {
+  background-image: url(../images/features-icon-white-02.png);
+}
+.third-feature:hover .icon {
+  background-image: url(../images/features-icon-white-01.png);
+}
+.forth-feature:hover .icon {
   background-image: url(../images/features-icon-white-02.png);
 }
 
@@ -1093,6 +1098,13 @@ Features Style
 }
 
 .second-feature .icon {
+  background-image: url(../images/features-icon-black-02.png);
+}
+.third-feature .icon {
+  background-image: url(../images/features-icon-black-01.png);
+}
+
+.forth-feature .icon {
   background-image: url(../images/features-icon-black-02.png);
 }
 
